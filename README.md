@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello There!
 
+Data Analytics and Visualization Developer with over 6 years experience in deveolpment. Background in database development with SAP HANA and SQL, data visualization skills with Tableau and Power BI. And recently, getting my feet wet with Python for ETL, Exploratory Analysis, and Data Analysis.
+
+![https://linkedin.com/in/gregdelima](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square) ![https://blog.gregdelima.com](https://img.shields.io/badge/Blog-Read%20my%20Blog-informational)
 <!--
 **GD-L/GD-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
