@@ -1,8 +1,6 @@
-<center>
-
-## Hey! I'm Greg :wave:
-
-</center>
+<h2 align="center">
+Hey! I'm Greg :wave:
+</h2>
 
 
 Data Analytics and Visualization Developer with over 6 years experience in deveolpment. Background in database development with SAP HANA and SQL, data visualization skills with Tableau and Power BI. And recently, getting my feet wet with Python for ETL, Exploratory Analysis, and Data Analysis.
@@ -15,10 +13,11 @@ Data Analytics and Visualization Developer with over 6 years experience in deveo
     </a>
 </p>
 
-<center>
+<h3 align="center">
+Languages and Tools
+</h3>
 
-### Languages and Tools
-
+<p align="center">
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width = "25">  
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain-wordmark.svg" width = "25"> 
 <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original.svg" width = "25">
@@ -26,17 +25,17 @@ Data Analytics and Visualization Developer with over 6 years experience in deveo
 <img src="www/SAP_HANA.png" width = "30">   
 <img src="www/tableau.jpg" width = "30"> 
 <img src="www/PowerBI.png" width = "30"> 
+</p>
 
-</center>
+<h3 align="center">
+My favorite projects
+</h3>
 
-<center>
-
-### My favorite projects
+<p align = "center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gd-l&repo=homeassistant&theme=nord)](https://github.com/GD-L/homeassistant)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gd-l&repo=hana-exporter&theme=nord)](https://github.com/GD-L/hana-exporter)
 
-</center>
-
+</p>
 * :desktop_computer: Maintaining a home server
     * Ubuntu, ESXi, Networking, Docker
 * :blue_book: Learning & using Bash, YAML, and Git for projects
