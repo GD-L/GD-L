@@ -36,6 +36,7 @@ My favorite projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gd-l&repo=homeassistant&theme=nord)](https://github.com/GD-L/homeassistant)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gd-l&repo=hana-exporter&theme=nord)](https://github.com/GD-L/hana-exporter)
 
 </p>
+
 * :desktop_computer: Maintaining a home server
     * Ubuntu, ESXi, Networking, Docker
 * :blue_book: Learning & using Bash, YAML, and Git for projects
