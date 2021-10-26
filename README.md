@@ -3,7 +3,7 @@ Hey! I'm Greg :wave:
 </h2>
 
 
-Data Analytics and Visualization Developer with over 6 years experience in deveolpment. Background in database development with SAP HANA and SQL, data visualization skills with Tableau and Power BI. And recently, getting my feet wet with Python for ETL, Exploratory Analysis, and Data Analysis.
+Data Analytics and Visualization Developer with over 6 years experience in development. Background in database dev with SAP HANA and SQL, data visualization skills with Tableau and Power BI. And recently, getting my feet wet with Python for ETL, Exploratory Analysis, and Data Analysis.
 
 <p align="center">
     <a href="https://linkedin.com/in/gregdelima">
