@@ -13,7 +13,6 @@ Data Analytics and Visualization Developer with over 6 years experience in deveo
     <a href= "https://blog.gregdelima.com">
     <img src="https://img.shields.io/badge/Blog-lightgrey.svg?&style=for-the-badge&logo=jekyll">
     </a>
-    <img src = >
 </p>
 
 <center>
